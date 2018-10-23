@@ -11,7 +11,7 @@ IEEEXtreme is a global challenge in which teams of IEEE Student members – advi
 
 My experience of this 24 hour coding competition is very interesting. Coding continuously for 24 hours without getting a sleep is really not an easy task. I get to know this at the end of the competition. But the job performed during these 24 hours is the thing for happiness at the end of the competition, when your 24 hour work leads to a nice rank all over the world on the scoreboard. Well !! I was quite happy for me and my teammates to achieve country rank AIR 19 and world rank 210/4049. More than that I was happy for the problems, I coded a solution for!!
 
-Special thanks to my teammates: [Sonali Saraswat]() and [Mansi Bhandari]()
+Special thanks to my teammates: [Sonali Saraswat](https://github.com/sonalisaraswat) and [Mansi Bhandari](https://github.com/mansibhandari2897)
 
 ## All India Rank 19
 
